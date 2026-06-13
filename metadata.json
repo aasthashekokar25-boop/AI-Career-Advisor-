@@ -1,0 +1,6 @@
+{
+  "name": "AI-Powered Career Advisor",
+  "description": "Discover personalized career recommendations, dynamic skills gap analysis, custom 6-month learning roadmaps, course recommendations, and salary outlooks using Google Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
